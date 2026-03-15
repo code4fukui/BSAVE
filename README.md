@@ -1,5 +1,7 @@
 # BSAVE
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 BSAVE is a format for storing binary data with metadata such as start address, end address, and execution address.
 
 ## Format of BSAVE
