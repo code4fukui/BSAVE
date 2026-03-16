@@ -24,6 +24,4 @@ console.log(BSAVE.decode(bin));
 
 ## License
 
-MIT License
-
-Copyright (c) 2025 Taisuke Fukuno
+MIT License — see [LICENSE](LICENSE).
